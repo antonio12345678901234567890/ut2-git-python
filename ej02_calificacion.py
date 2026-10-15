@@ -2,7 +2,7 @@ nota = float(input('Dame una de tus notas'))
 calificacion = ""
 
 if (0 <= nota < 5):
-    calificacion = "Suspenso"
+    calificacion = "Insuficiente"
 elif (5 <= nota < 6):
     calificacion = "Suficiente"
 elif (6 <= nota < 7):
