@@ -7,6 +7,6 @@ match opcion:
     case "2":
         print("¡Adios!")
     case "3":
-        print("Saliendo...")
+        print("Hasta pronto")
     case _:
         print("Opción no válida")
