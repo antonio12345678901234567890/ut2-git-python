@@ -1,11 +1,12 @@
 # Ejercicio 7: FizzBuzz (for + if/elif/else)
-for i in range(1, 31):
+limite = int(input("¿Hasta qué número?"))
+
+for i in  range(1, limite + 1):
  if i % 15 == 0:
- print("FizzBuzz")
-18
+    print("FizzBuzz")
  elif i % 3 == 0:
- print("Fizz")
+    print("Fizz")
  elif i % 5 == 0:
- print("Buzz")
+    print("Buzz")
  else:
  print(i)
