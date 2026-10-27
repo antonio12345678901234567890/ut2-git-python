@@ -14,3 +14,8 @@ Añadimos otras lineas mas
 | ej06_suma_pares.py | `for` + `continue` |
 | ej07_fizzbuzz.py | `for` + `if / elif` |
 | ej08_contrasena.py | |
+
+## Colaboradores
+
+- Iván Jesús Corbalán Pascual
+- Antonio Federico Micol Yuste
