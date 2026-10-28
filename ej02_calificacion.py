@@ -1,6 +1,7 @@
 nota = float(input('Dame una de tus notas'))
 calificacion = ""
 
+
 if nota < 0 or nota > 10:
     calificacion = "Nota no valida"
 elif (0 <= nota < 5):
