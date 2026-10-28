@@ -4,6 +4,8 @@
 
 La rama `main` se mantiene estable y no se utiliza para desarrollar directamente. Cada tarea debe comenzar creando una rama propia a partir de `main` mediante el comando `git switch -c nombre-de-la-rama`.
 
+La rama `mejora-readme` está destinada a realizar modificaciones y mejoras en la documentación del proyecto, como actualizar el README.md o corregir su contenido.
+
 ## Normas para los commits
 
 Los mensajes de commit deben tener el formato `tipo: descripción`. Se utilizarán los siguientes tipos según el cambio realizado:
