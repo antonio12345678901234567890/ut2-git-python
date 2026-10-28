@@ -19,3 +19,7 @@ Añadimos otras lineas mas
 
 - Iván Jesús Corbalán Pascual
 - Antonio Federico Micol Yuste
+
+## Cómo contribuir
+
+Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para conocer las normas de colaboración, el flujo de ramas y las convenciones de los commits.
